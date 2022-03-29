@@ -112,7 +112,9 @@ It also was to deter nginx's restrictive reputation (in a community server I'm i
 ## Contributing
 
 Contributions are welcome. Send in a pull request and I'll be more than happy to take a look.
+yhyhyhh
 
+readmea a
 ## Future plans
 
 Make another client rewriting library similar to wombat but made with intent to be a proxy rewriting library and with the goal of ease of use for the server and the client.
